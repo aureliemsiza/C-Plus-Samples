@@ -1,4 +1,3 @@
-//This code snippet demonstrates a basic game loop structure that you would find in many game applications.
 
 #include <SFML/Graphics.hpp>
 
