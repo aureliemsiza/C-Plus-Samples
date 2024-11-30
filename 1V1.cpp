@@ -48,9 +48,9 @@ public:
 };
 
 int main() {
-    srand(static_cast<unsigned>(time(0));
+    srand(static_cast<unsigned>(time(0))); 
 
-    Player player("YourName", 100, 10);
+    Player player("Aurelie", 100, 10);
     Enemy enemy("Dragon", 150, 15);
 
     cout << "Welcome to the Text-based Game!" << endl;
